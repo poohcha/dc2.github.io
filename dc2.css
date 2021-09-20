@@ -1,0 +1,8 @@
+.titleBox {
+    padding: .5em .75em;
+    background: -webkit-linear-gradient(top, #cf88dd 0%, #bd49cc 100%);
+    background: linear-gradient(to bottom, #cf88dd 0%, #bd49cc 100%);
+    color: #fff;
+    text-shadow: 1px 1px 1px rgb(0 0 0 / 30%);
+}
+
